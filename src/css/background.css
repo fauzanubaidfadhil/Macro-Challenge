@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.background {
+    background-image: url('../Assets/background1.png');
+    background-size: cover;
+    padding: 1rem;
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+}
