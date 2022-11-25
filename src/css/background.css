@@ -4,10 +4,12 @@
 }
 
 .background {
-    background-image: url('../Assets/background1.png');
+    background-image: url('../Assets/background.png');
     background-size: cover;
     padding: 1rem;
     position: fixed;
     min-width: 100%;
     min-height: 100%;
 }
+
+

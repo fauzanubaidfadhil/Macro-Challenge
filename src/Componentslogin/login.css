@@ -1,0 +1,211 @@
+/* css navbar */
+.navbar {
+    position: absolute;
+    width: 476px;
+    height: 30px;
+    left: 440px;
+    top: -20px;
+ }
+
+ .logo {
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: -430px;
+    top: 15px;
+    }
+
+.button-nav {
+        position: absolute;
+        width: 100px;
+        height: 30px;
+        left: 1150px;
+        top: 25px;
+    
+        background: #E8BA44;
+        border-radius: 10px;
+        color: white;
+    
+        font-weight: 700;
+        font-size: 80%;
+        line-height: 15px;   
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+/* css navbar */
+
+
+.borderlogin {
+    position: absolute;
+    width: 554px;
+    height: 586px;
+    left: 443px;
+    top: 110px;
+    
+}
+
+.text-login {
+    position: fixed;
+    width: 120px;
+    height: 60px;
+    left: 180px;
+    top: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+color: #E8BA44;
+}
+
+.text-1-login {
+    position: fixed;
+    width: 263px;
+    height: 24px;
+    left: 135px;
+    top: 60px;
+
+    color: white;
+}
+
+.text-2-login {
+    position: fixed;
+    width: 263px;
+    height: 24px;
+    left: 170px;
+    top: 85px;
+
+    color: white;
+}
+
+.input-email {
+  position: fixed;
+  width: 199px;
+  height: 74px;
+  left: 150px;
+  top: 140px;
+}
+
+.text-email {
+  background-color: transparent;
+  color: white;
+  border-radius: 8px;
+  height: 50px;
+  width: 195px;
+  border-color: transparent;
+}
+
+.input-pwd {
+  position: fixed;
+  width: 199px;
+  height: 74px;
+  left: 150px;
+  top: 200px;
+}
+
+.text-pwd {
+  border-radius: 8px;
+  background-color: transparent;
+  color: white;
+  height: 50px;
+  width: 195px;
+  border-color: transparent;
+}
+
+.btn-login {
+  position: absolute;
+  width: 195px;
+  height: 28px;
+  left: 150px;
+  top: 260px;
+
+background: #E8BA45;
+border-radius: 10px;
+color:white;
+border: transparent;
+}
+
+
+.btn-google {
+  position: absolute;
+  width: 236px;
+  height: 35px;
+  left: 130px;
+  top: 340px;
+
+  background: white;
+  border-radius: 10px;
+  border: transparent;
+  box-sizing: border-box;
+  border: 1px solid #E8BA45;
+  border-radius: 10px;
+}
+
+.logogoogle {
+  position: fixed;
+  width: 23px;
+  height: 23px;
+  left: 155px;
+  top: 345px;
+}
+
+
+.btn-apple {
+  background: white;
+  border-radius: 10px;
+  color: black;
+  border: transparent;
+  box-sizing: border-box;
+  border: 1px solid #E8BA45;
+  border-radius: 10px;
+
+  position: absolute;
+  width: 236px;
+  height: 35px;
+  left: 130px;
+  top: 400px;
+}
+
+.logoapple {
+  position: fixed;
+  width: 23px;
+  height: 23px;
+  left: 155px;
+  top: 405px;
+}
+
+.text-3-login {
+  position: fixed;
+  width: 236px;
+  height: 35px;
+  left: 118px;
+  top: 300px;
+  color: white;
+}
+
+.text-4-login {
+  color: #E8BA45;
+  position: fixed;
+  width: 236px;
+  height: 35px;
+  left: 284px;
+  top: 300px;
+}
+
+.text-5-login {
+  position: absolute;
+  width: 236px;
+  height: 35px;
+  left: 15px;
+  top: 3px;
+}
+
+.text-6-login {
+  position: absolute;
+  width: 236px;
+  height: 35px;
+  left: 15px;
+  top: 3px;
+}

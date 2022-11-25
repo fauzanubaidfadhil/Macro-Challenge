@@ -1,11 +1,17 @@
-import Navigation from "../Componentsofhome/Navbar";
-import Content from "../Componentsofhome/Content";
+import Navigation from "../Componentshome/Navbar";
+import Content from "../Componentshome/Content";
+import '../css/background.css';
 
 const Home = () => {
     return ( 
         <>
-        <Navigation />
-        <Content />
+        <section className='background'>
+            <div>
+                <Navigation />
+                <Content />
+            </div>
+        </section>
+        
         </>
      );
 }

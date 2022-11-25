@@ -1,0 +1,159 @@
+.text-signup {
+    position: absolute;
+width: 157px;
+height: 60px;
+left: 170px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 60px;
+color: #E8BA44;
+}
+
+.inputname {
+    position: fixed;
+  width: 199px;
+  height: 74px;
+  left: 150px;
+  top: 120px;
+}
+
+.textname{
+    background-color: transparent;
+    color: white;
+    border-radius: 8px;
+    height: 50px;
+    width: 195px;
+    border-color: transparent;
+}
+
+.inputemail {
+    position: fixed;
+    width: 199px;
+    height: 74px;
+    left: 150px;
+    top: 180px;
+}
+
+.textemail {
+    border-radius: 8px;
+  background-color: transparent;
+  color: white;
+  height: 50px;
+  width: 195px;
+  border-color: transparent;
+}
+
+.inputpwd {
+    position: fixed;
+    width: 199px;
+    height: 74px;
+    left: 150px;
+    top: 240px;
+}
+
+.textpwd {
+    border-radius: 8px;
+    background-color: transparent;
+    color: white;
+    height: 50px;
+    width: 195px;
+    border-color: transparent;
+}
+
+.sign {
+    position: absolute;
+    width: 195px;
+    height: 28px;
+    left: 150px;
+    top: 300px;
+
+    background: #E8BA45;
+    border-radius: 10px;
+    color:white;
+    border: transparent;
+}
+
+.i {
+    position: fixed;
+    width: 236px;
+    height: 35px;
+    left: 144px;
+    top: 340px;
+    color: white;
+}
+
+.login {
+    color: #E8BA45;
+    position: fixed;
+    width: 236px;
+    height: 35px;
+    left: 276px;
+    top: 340px;
+}
+
+.cg {
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 130px;
+    top: 380px;
+  
+    background: white;
+    border-radius: 10px;
+   
+    border: transparent;
+    box-sizing: border-box;
+    border: 1px solid #E8BA45;
+    border-radius: 10px;
+}
+
+.continue-g {
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 15px;
+    top: 3px;
+}
+
+.logogoogle {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 25px;
+    top: 5px;
+}
+
+.ca {
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 130px;
+    top: 430px;
+  
+    background: white;
+    border-radius: 10px;
+    border: transparent;
+    box-sizing: border-box;
+    border: 1px solid #E8BA45;
+    border-radius: 10px;
+}
+
+.continue-a {
+    position: absolute;
+    width: 236px;
+    height: 35px;
+    left: 15px;
+    top: 3px;
+}
+
+.logoapple {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 25px;
+    top: 3px;  
+}

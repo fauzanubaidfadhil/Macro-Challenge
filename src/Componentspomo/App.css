@@ -1,0 +1,99 @@
+/* .border1 {
+  position: fixed;
+  width: 530px;
+  height: 395px;
+  left: 300px;
+  top: 200px;
+} */
+
+.text-timer {
+  position: fixed;
+  width: 90px;
+  height: 45px;
+  left: 160px;
+  top: 10px;
+  color: #E8BA44;
+  font-size: 70px;
+}
+
+.timer1 {
+  position: fixed;
+width: 253px;
+height: 72px;
+left: 130px;
+top: 100px;
+color: white;
+font-size: 70px;
+font-style: normal;
+font-family: poppins;
+}
+
+.timer2 {
+  position: fixed;
+  width: 253px;
+  height: 72px;
+  left: 240px;
+  top: 95px;
+  color: white;
+  font-size: 70px;
+  font-style: normal;
+font-family: poppins;
+}
+
+.timer3 {
+  position: fixed;
+  width: 253px;
+  height: 72px;
+  left: 300px;
+  top: 100px;
+  color: white;
+  font-size: 70px;
+  font-style: normal;
+font-family: poppins;
+}
+
+
+.button-play {
+  position: absolute;
+width: 138px;
+height: 40px;
+left: 10px;
+top: 230px;
+
+background: #E8BA45;
+border-radius: 30px;
+border: transparent;
+color: white;
+font-size: 20px;
+font-weight: 700;
+}
+
+.button-stop {
+  position: absolute;
+  width: 138px;
+  height: 40px;
+  left: 180px;
+  top: 230px;
+  
+  background: #E8BA45;
+  border-radius: 30px;
+  border: transparent;
+  color:white;
+  font-size: 20px;
+font-weight: 700;
+}
+
+.button-refresh {
+  position: absolute;
+  width: 138px;
+  height: 40px;
+  left: 350px;
+  top: 230px;
+  
+  background: #E8BA45;
+  border-radius: 30px;
+  border: transparent;
+  color: white;
+  font-size: 20px;
+font-weight: 700;
+}

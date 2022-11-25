@@ -1,0 +1,47 @@
+.background1-img {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 120px;
+    top: 200px;
+}
+
+.background2 {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 480px;
+    top: 200px;
+}
+
+.background3 {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 840px;
+    top: 200px;
+}
+
+.background4 {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 120px;
+    top: 430px;
+}
+
+.background5 {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 480px;
+    top: 430px;
+}
+
+.background6 {
+    position: absolute;
+    width: 310px;
+    height: 220px;
+    left: 840px;
+    top: 430px;
+}

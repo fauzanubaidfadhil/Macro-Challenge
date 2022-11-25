@@ -1,0 +1,118 @@
+.about-aboutus {
+    position: absolute;
+width: 364px;
+height: 62px;
+left: 450px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 72px;
+color: white;
+}
+
+.extime-aboutus {
+    position: absolute;
+    width: 364px;
+    height: 62px;
+    left: 630px;
+    top: 100px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 72px;
+    color: #E8BA44;
+}
+
+.our {
+    position: absolute;
+width: 1148px;
+height: 48px;
+left: 50px;
+top: 175px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: white;
+}
+
+.we {
+    position: absolute;
+width: 887px;
+height: 23px;
+left: 380px;
+top: 230px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+.icontime-aboutus {
+    position: absolute;
+    width: 115px;
+    height: 125px;
+    left: 480px;
+    top: 290px;
+}
+
+.iconarticle-aboutus {
+    position: absolute;
+    width: 115px;
+    height: 125px;
+    left: 660px;
+    top: 290px;
+}
+
+.in {
+    position: absolute;
+width: 486px;
+height: 120px;
+left: 108px;
+top: 448px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: justify;
+color: white;
+}
+
+.there {
+    position: absolute;
+    width: 486px;
+    height: 120px;
+    left: 658px;
+    top: 448px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: white;
+}

@@ -1,10 +1,14 @@
-import Content from '../Componentsoflogin/Content';
-import Navigation from '../Componentsoflogin/Navbar';
+import Navigation from "../Componentslogin/Navbar";
+import Content from '../Componentslogin/Content';
 
 const Login = () => {
     return <>
-        
-        <Content /> 
+        <section className='background'>
+            <div>
+                <Navigation />
+                <Content /> 
+            </div>
+        </section>
         </>
 }
  
